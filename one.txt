@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hi my name is prajwal ho
 these changes are made in remote repository
 add a new line
+=======
+git lab 5
+>>>>>>> 25dca20 (git 5th lab)
